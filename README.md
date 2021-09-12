@@ -11,6 +11,7 @@
 </p>
 </div>
 <hr>
+<div>
 <h3 id ="apps" align="left">🖱️ Aplicações:</h3>
 <dl>
   <dt>Backend:</dt>
@@ -18,7 +19,9 @@
   <dt>Frontend:</dt>
   <dd><a href="https://dsvendas-millenafreitas.netlify.app/">Netlify</a></dd>
 </dl>
+</div>
 <br>
+<div>
 <h3 id = "tech" align="left">💻 Tecnologias:</h3>
 <ul> 
     <li> CSS3 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </li> 
@@ -31,14 +34,18 @@
     <li> Spring <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </li> 
     <li> Typescript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </li> 
 </ul>
+</div>
 <br>
+<div>
 <h3 id="projeto" align="left">🚧 Projeto:</h3>
 <p>
 O objetivo deste projeto é criar aplicação para o backend utilizando Spring Boot, ReactJS para o front end e CI/CD com Netlify. 
 <br><br>
 O projeto consiste em uma Dashboard de vendas na qual é possível controlar os dados dos vendedores e das vendas como taxa de sucesso, todas as vendas, visitantes, negócios fechados, valor em tabela e data.
 </p>
+</div>
 <br>
+<div>
 <h3 id="conteudo" align="left">📚 Conteúdo programático:</h3>
 <p>
 <dl>
@@ -72,3 +79,14 @@ O projeto consiste em uma Dashboard de vendas na qual é possível controlar os 
   </dd>
 </dl>
 </p>
+</div>
+<br>
+<div>
+<h3 id ="layout" align="left">✨ Layout:</h3>
+<img src="https://i.ibb.co/Z1hP1d8/layout.png" alt="layout" border="0">
+</div>
+<div>
+    <h3 id ="acesso">
+        <a href="https://dsvendas-millenafreitas.netlify.app/" target="_blank">💜 Acesso ao site</a>
+    </h3>
+</div>
