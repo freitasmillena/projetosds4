@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://devsuperior.com.br/" target="_blank"><img src="https://i.im.ge/2021/09/12/T76z6C.png" height="100px" width="300px" alt="T76z6C.png" border="0"></a>
+    <a href="https://devsuperior.com.br/" target="_blank"><img src="https://i.im.ge/2021/09/12/T76z6C.png" height="100px" width="300px" alt="Logo Curso" title="Ir para o site" border="0"></a>
    <p align="center">
   <br>
   <a href="#apps">Aplicações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
