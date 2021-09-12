@@ -30,9 +30,7 @@ const Dashboard = () => {
 
             <Footer />
 
-        </><div>
-                <h1>Pagina Home</h1>
-            </div></>
+        </></>
 
     );
 }
